@@ -1,2 +1,2 @@
 # iCoder-website
-iCoder website design using BOOTSTRAP ,HTML and CSS
+iCoder website design using BOOTSTRAP  
